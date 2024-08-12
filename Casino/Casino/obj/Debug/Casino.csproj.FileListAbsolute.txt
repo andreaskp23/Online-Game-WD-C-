@@ -1,0 +1,54 @@
+C:\Users\harwo\source\repos\Casino\Casino\bin\Debug\Casino.exe.config
+C:\Users\harwo\source\repos\Casino\Casino\bin\Debug\Casino.exe
+C:\Users\harwo\source\repos\Casino\Casino\bin\Debug\Casino.pdb
+C:\Users\harwo\source\repos\Casino\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\harwo\source\repos\Casino\Casino\obj\Debug\Casino.Properties.Resources.resources
+C:\Users\harwo\source\repos\Casino\Casino\obj\Debug\Casino.csproj.GenerateResource.cache
+C:\Users\harwo\source\repos\Casino\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\harwo\source\repos\Casino\Casino\obj\Debug\Casino.exe
+C:\Users\harwo\source\repos\Casino\Casino\obj\Debug\Casino.pdb
+C:\Users\harwo\source\repos\Casino\Casino\obj\Debug\Casino.Odd.resources
+C:\Users\harwo\source\repos\Casino\Casino\obj\Debug\Casino.LuckySpin.resources
+C:\Users\harwo\source\repos\Casino\Casino\obj\Debug\Casino.Home.resources
+C:\Users\harwo\source\repos\Casino\Casino\obj\Debug\Casino.Keno.resources
+C:\Users\harwo\source\repos\Casino\Casino\obj\Debug\Casino.convertcoin.resources
+C:\Users\harwo\source\repos\Casino\Casino\obj\Debug\Casino.registerMember.resources
+C:\Users\harwo\source\repos\Casino\Casino\obj\Debug\Casino.berandaAdmin.resources
+C:\Users\harwo\source\repos\Casino\Casino\obj\Debug\Casino.loginGeneral.resources
+C:\Users\harwo\source\repos\Casino\Casino\obj\Debug\Casino.addcash.resources
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\bin\Debug\Casino.exe.config
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\bin\Debug\Casino.exe
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\bin\Debug\Casino.pdb
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\obj\Debug\Casino.addcash.resources
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\obj\Debug\Casino.berandaAdmin.resources
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\obj\Debug\Casino.convertcoin.resources
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\obj\Debug\Casino.LuckySpin.resources
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\obj\Debug\Casino.Home.resources
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\obj\Debug\Casino.Keno.resources
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\obj\Debug\Casino.loginGeneral.resources
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\obj\Debug\Casino.Odd.resources
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\obj\Debug\Casino.Properties.Resources.resources
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\obj\Debug\Casino.registerMember.resources
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\obj\Debug\Casino.csproj.GenerateResource.cache
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\obj\Debug\Casino.exe
+C:\Users\Andreas\OneDrive\Documents\Tugas\Project 1 semester 4\Casino\Casino\Casino\obj\Debug\Casino.pdb
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\bin\Debug\Casino.exe.config
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\bin\Debug\Casino.exe
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\bin\Debug\Casino.pdb
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\obj\Debug\Casino.addcash.resources
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\obj\Debug\Casino.berandaAdmin.resources
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\obj\Debug\Casino.convertcoin.resources
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\obj\Debug\Casino.LuckySpin.resources
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\obj\Debug\Casino.Home.resources
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\obj\Debug\Casino.Keno.resources
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\obj\Debug\Casino.loginGeneral.resources
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\obj\Debug\Casino.Odd.resources
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\obj\Debug\Casino.Properties.Resources.resources
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\obj\Debug\Casino.registerMember.resources
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\obj\Debug\Casino.csproj.GenerateResource.cache
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\obj\Debug\Casino.exe
+C:\Users\Andreas\Downloads\Onlien Game WD\Casino\Casino\obj\Debug\Casino.pdb
